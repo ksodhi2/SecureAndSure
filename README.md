@@ -3,6 +3,6 @@ Originally intended to serve America’s homeless population, Secure&Sure provid
 Team Members: 
     Karan Sodhi, Raghav Saini, Aishani Dutta, Tony Tan, Abhinav Pappu PM: Clara Wei
     
-Tech Stacks:
+Tech Stack:
     React, Firebase, Microsoft Azure, JavaScript
     
